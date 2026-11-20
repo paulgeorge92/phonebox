@@ -23,14 +23,14 @@ Statistiche del PC, sessioni di coding IA, musica e controlli touch via USB o Wi
 Windows, Linux e macOS. Nessun root, nessun account PhoneBox e nessun servizio cloud.</p>
 
 <p align="center">
-  <a href="https://ersinkoc.github.io/phonebox/"><b>Prova la demo live</b></a> ·
+  <a href="https://paulgeorge92.github.io/phonebox/"><b>Prova la demo live</b></a> ·
   <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><b>Scarica</b></a> ·
   <a href="#avvio-rapido"><b>Avvio rapido</b></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml"><img src="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml/badge.svg" alt="Stato build"></a>
-  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/ersinkoc/phonebox?label=release" alt="Ultima versione"></a>
+  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/paulgeorge92/phonebox?label=release" alt="Ultima versione"></a>
   <img src="https://img.shields.io/badge/Windows%20%C2%B7%20Linux%20%C2%B7%20macOS-.NET%2010-512bd4" alt="Windows, Linux, macOS; .NET 10">
   <img src="https://img.shields.io/badge/Android-5%2B-3ddc84" alt="Android 5+">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="Licenza MIT"></a>

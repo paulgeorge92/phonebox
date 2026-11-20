@@ -23,14 +23,14 @@ Thông số PC, các phiên lập trình bằng AI, nhạc và điều khiển c
 Windows, Linux và macOS. Không cần root, tài khoản PhoneBox hay dịch vụ đám mây.</p>
 
 <p align="center">
-  <a href="https://ersinkoc.github.io/phonebox/"><b>Dùng thử bản demo trực tiếp</b></a> ·
+  <a href="https://paulgeorge92.github.io/phonebox/"><b>Dùng thử bản demo trực tiếp</b></a> ·
   <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><b>Tải xuống</b></a> ·
   <a href="#bắt-đầu-nhanh"><b>Bắt đầu nhanh</b></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml"><img src="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml/badge.svg" alt="Trạng thái bản dựng"></a>
-  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/ersinkoc/phonebox?label=release" alt="Bản phát hành mới nhất"></a>
+  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/paulgeorge92/phonebox?label=release" alt="Bản phát hành mới nhất"></a>
   <img src="https://img.shields.io/badge/Windows%20%C2%B7%20Linux%20%C2%B7%20macOS-.NET%2010-512bd4" alt="Windows, Linux, macOS; .NET 10">
   <img src="https://img.shields.io/badge/Android-7%2B-3ddc84" alt="Android 7+">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="Giấy phép MIT"></a>
@@ -197,7 +197,7 @@ Ký mã miễn phí do [SignPath.io](https://about.signpath.io/) cung cấp, ch�
   [quy trình phát hành](../.github/workflows/release.yml). Mọi yêu cầu ký đều cần phê duyệt thủ công.
   Thông báo về runtime và thư viện đi kèm nằm trong [THIRD-PARTY-NOTICES.txt](../agent/PhoneBox.Agent/THIRD-PARTY-NOTICES.txt).
 - **Ứng dụng Android:** các APK bản phát hành dùng khóa ký riêng của dự án, độc lập với SignPath.
-- **Vai trò trong nhóm:** người commit, người review và người phê duyệt ký số: [ersinkoc](https://github.com/paulgeorge92).
+- **Vai trò trong nhóm:** người commit, người review và người phê duyệt ký số: [paulgeorge92](https://github.com/paulgeorge92).
   Pull request từ các cộng tác viên khác sẽ được review trước khi hợp nhất.
 - **Quyền riêng tư:** xem [chính sách quyền riêng tư](../PRIVACY.md).
 
@@ -225,11 +225,11 @@ Những người đã thử nghiệm PhoneBox trên phần cứng của chính h
 
 ## Lịch sử ngôi sao
 
-<a href="https://www.star-history.com/#ersinkoc/phonebox&Date">
+<a href="https://www.star-history.com/#paulgeorge92/phonebox&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date">
-    <img alt="Lịch sử ngôi sao của ersinkoc/phonebox" src="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date">
+    <img alt="Lịch sử ngôi sao của paulgeorge92/phonebox" src="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date">
   </picture>
 </a>
 

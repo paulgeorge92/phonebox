@@ -23,7 +23,7 @@ PC stats, AI coding sessions, music and touch controls over USB or Wi-Fi.<br>
 Windows, Linux and macOS. No root, PhoneBox account or cloud service required.</p>
 
 <p align="center">
-  <a href="https://ersinkoc.github.io/phonebox/"><b>Try the live demo</b></a> ·
+  <a href="https://paulgeorge92.github.io/phonebox/"><b>Try the live demo</b></a> ·
   <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><b>Download</b></a> ·
   <a href="#quick-start"><b>Quick start</b></a>
 </p>
@@ -208,7 +208,7 @@ Free code signing provided by [SignPath.io](https://about.signpath.io/), certifi
   [release workflow](.github/workflows/release.yml). Every signing request requires manual approval.
   Bundled runtime and library notices are in [THIRD-PARTY-NOTICES.txt](agent/PhoneBox.Agent/THIRD-PARTY-NOTICES.txt).
 - **Android app:** release APKs use the project's own signing key, independently of SignPath.
-- **Team roles:** committer, reviewer and signing approver: [ersinkoc](https://github.com/paulgeorge92).
+- **Team roles:** committer, reviewer and signing approver: [paulgeorge92](https://github.com/paulgeorge92).
   Pull requests from other contributors are reviewed before merging.
 - **Privacy:** see the [privacy policy](PRIVACY.md).
 

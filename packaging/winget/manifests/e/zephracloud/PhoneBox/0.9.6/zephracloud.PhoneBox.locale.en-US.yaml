@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
-PackageIdentifier: ersinkoc.PhoneBox
+PackageIdentifier: paulgeorge92.PhoneBox
 PackageVersion: 0.9.6
 PackageLocale: en-US
-Publisher: ersinkoc
-PublisherUrl: https://github.com/ersinkoc
+Publisher: paulgeorge92
+PublisherUrl: https://github.com/paulgeorge92
 PackageName: PhoneBox
-PackageUrl: https://github.com/ersinkoc/phonebox
+PackageUrl: https://github.com/paulgeorge92/phonebox
 License: MIT
 LicenseUrl: https://github.com/paulgeorge92/phonebox/blob/main/LICENSE
 ShortDescription: Turn an old Android phone into a desk panel for your PC.

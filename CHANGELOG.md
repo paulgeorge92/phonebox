@@ -739,7 +739,7 @@ recorded proof.
   stores the page it displays.
 
 **Web demo and tooling**
-- The [live demo](https://ersinkoc.github.io/phonebox/) shows all 30 templates and answers like the agent: the
+- The [live demo](https://paulgeorge92.github.io/phonebox/) shows all 30 templates and answers like the agent: the
   phone-facing settings without commands, working volume, media, process and Control Deck controls, the same
   refusals and error texts. The landing page takes its widget and template counts and the version from the sources.
 - `install.ps1` stops when the build fails instead of starting the previous version; the APK installer reports
@@ -1045,7 +1045,7 @@ or `webcal://` link) in Settings › General; the new Agenda widget lists the co
 next event. Recurring events, time zones and moved or cancelled occurrences are handled. A rule can react to "a
 calendar event is on" (e.g. show an on-air sign during meetings). The feed addresses never leave the computer.
 
-**Distribution.** A Scoop bucket in the repository (`scoop bucket add phonebox https://github.com/ersinkoc/phonebox`),
+**Distribution.** A Scoop bucket in the repository (`scoop bucket add phonebox https://github.com/paulgeorge92/phonebox`),
 winget manifests ready for winget-pkgs, and a release workflow that builds everything on GitHub, publishes it with
 checksums and updates both. Agents installed this way put the app on the phone from Settings › General ›
 *Install the phone app*.
@@ -1067,7 +1067,7 @@ the panel, and the panel can become the phone's home app, so it starts by itself
 longer opens a second live stream after a quick pause and resume; `install.ps1 -Apk` rebuilds the APK when the app's
 sources are newer than the one in `dist\` (new `-BuildApk` forces it).
 
-**Live demo.** <https://ersinkoc.github.io/phonebox/> runs the real panel and layout editor in the browser with
+**Live demo.** <https://paulgeorge92.github.io/phonebox/> runs the real panel and layout editor in the browser with
 made-up data.
 
 ## 0.6.2 — 2026-11-07

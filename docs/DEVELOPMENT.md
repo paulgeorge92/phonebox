@@ -92,7 +92,7 @@ target frameworks. Set `ANDROID_HOME` or `android/local.properties` (`sdk.dir`) 
 
 ### Demo data and media
 
-The demo server needs only Python. It serves the same demo as the [live one](https://ersinkoc.github.io/phonebox/)
+The demo server needs only Python. It serves the same demo as the [live one](https://paulgeorge92.github.io/phonebox/)
 (made-up data in [`tools/pages/demo.js`](../tools/pages/demo.js)) straight from the sources, so a reload shows your
 changes. Size the browser window to 780 × 360 (the phone's screen in CSS pixels) and the panel behaves as on the
 phone, including webhooks: `curl -X POST http://127.0.0.1:8790/api/notify -d hello` (also `/api/push/<key>`,

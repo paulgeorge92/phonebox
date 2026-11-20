@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
-PackageIdentifier: ersinkoc.PhoneBox
+PackageIdentifier: paulgeorge92.PhoneBox
 PackageVersion: 0.6.3
 PackageLocale: en-US
-Publisher: ersinkoc
+Publisher: paulgeorge92
 PublisherUrl: https://github.com/paulgeorge92
 PackageName: PhoneBox
 PackageUrl: https://github.com/paulgeorge92/phonebox

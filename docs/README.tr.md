@@ -23,14 +23,14 @@ USB veya Wi-Fi üzerinden PC istatistikleri, yapay zekâ kodlama oturumları, m�
 Windows, Linux ve macOS. Root, PhoneBox hesabı veya bulut hizmeti gerekmez.</p>
 
 <p align="center">
-  <a href="https://ersinkoc.github.io/phonebox/"><b>Canlı demoyu dene</b></a> ·
+  <a href="https://paulgeorge92.github.io/phonebox/"><b>Canlı demoyu dene</b></a> ·
   <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><b>İndir</b></a> ·
   <a href="#hızlı-başlangıç"><b>Hızlı başlangıç</b></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml"><img src="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml/badge.svg" alt="Derleme durumu"></a>
-  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/ersinkoc/phonebox?label=release" alt="Son sürüm"></a>
+  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/paulgeorge92/phonebox?label=release" alt="Son sürüm"></a>
   <img src="https://img.shields.io/badge/Windows%20%C2%B7%20Linux%20%C2%B7%20macOS-.NET%2010-512bd4" alt="Windows, Linux, macOS; .NET 10">
   <img src="https://img.shields.io/badge/Android-5%2B-3ddc84" alt="Android 5+">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT lisansı"></a>
@@ -154,7 +154,7 @@ python tools/demo-server.py
 
 - **Windows ajanı:** SignPath Foundation başvurusu beklemededir; onaylanana kadar sürümler imzasızdır.
 - **Android uygulaması:** Sürüm APK'ları SignPath'ten bağımsız olarak projenin kendi imzalama anahtarını kullanır.
-- **Ekip rolleri:** Commit, inceleme ve imzalama onaylayıcısı: [ersinkoc](https://github.com/paulgeorge92).
+- **Ekip rolleri:** Commit, inceleme ve imzalama onaylayıcısı: [paulgeorge92](https://github.com/paulgeorge92).
 - **Gizlilik:** Bkz. [gizlilik politikası](../PRIVACY.md).
 
 ## Sponsor
@@ -175,11 +175,11 @@ python tools/demo-server.py
 
 ## Star History
 
-<a href="https://www.star-history.com/#ersinkoc/phonebox&Date">
+<a href="https://www.star-history.com/#paulgeorge92/phonebox&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date">
-    <img alt="ersinkoc/phonebox yıldız geçmişi" src="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date">
+    <img alt="paulgeorge92/phonebox yıldız geçmişi" src="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date">
   </picture>
 </a>
 

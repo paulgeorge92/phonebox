@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/paulgeorge92/phonebox/security/advisories/new
     about: Please report vulnerabilities privately (see SECURITY.md).
   - name: Try the live demo
-    url: https://ersinkoc.github.io/phonebox/
+    url: https://paulgeorge92.github.io/phonebox/
     about: The real panel and layout editor in your browser, with made-up data.

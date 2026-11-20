@@ -23,14 +23,14 @@
 支持 Windows、Linux 和 macOS。无需 Root、无需 PhoneBox 账号、无需云服务。</p>
 
 <p align="center">
-  <a href="https://ersinkoc.github.io/phonebox/"><b>在线演示</b></a> ·
+  <a href="https://paulgeorge92.github.io/phonebox/"><b>在线演示</b></a> ·
   <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><b>下载</b></a> ·
   <a href="#快速开始"><b>快速开始</b></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml"><img src="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml/badge.svg" alt="构建状态"></a>
-  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/ersinkoc/phonebox?label=release" alt="最新版本"></a>
+  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/paulgeorge92/phonebox?label=release" alt="最新版本"></a>
   <img src="https://img.shields.io/badge/Windows%20%C2%B7%20Linux%20%C2%B7%20macOS-.NET%2010-512bd4" alt="Windows, Linux, macOS; .NET 10">
   <img src="https://img.shields.io/badge/Android-5%2B-3ddc84" alt="Android 5+">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT 许可证"></a>

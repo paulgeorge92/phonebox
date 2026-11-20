@@ -23,14 +23,14 @@
 Windows, Linux και macOS. Χωρίς root, λογαριασμό PhoneBox ή υπηρεσία cloud.</p>
 
 <p align="center">
-  <a href="https://ersinkoc.github.io/phonebox/"><b>Δοκιμάστε το ζωντανό demo</b></a> ·
+  <a href="https://paulgeorge92.github.io/phonebox/"><b>Δοκιμάστε το ζωντανό demo</b></a> ·
   <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><b>Λήψη</b></a> ·
   <a href="#γρήγορη-εκκίνηση"><b>Γρήγορη εκκίνηση</b></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml"><img src="https://github.com/paulgeorge92/phonebox/actions/workflows/build.yml/badge.svg" alt="Κατάσταση build"></a>
-  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/ersinkoc/phonebox?label=release" alt="Τελευταία έκδοση"></a>
+  <a href="https://github.com/paulgeorge92/phonebox/releases/latest"><img src="https://img.shields.io/github/v/release/paulgeorge92/phonebox?label=release" alt="Τελευταία έκδοση"></a>
   <img src="https://img.shields.io/badge/Windows%20%C2%B7%20Linux%20%C2%B7%20macOS-.NET%2010-512bd4" alt="Windows, Linux, macOS; .NET 10">
   <img src="https://img.shields.io/badge/Android-5%2B-3ddc84" alt="Android 5+">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="Άδεια MIT"></a>
@@ -200,7 +200,7 @@ python tools/demo-server.py
   [ροή εργασίας έκδοσης](../.github/workflows/release.yml). Κάθε αίτημα υπογραφής απαιτεί χειροκίνητη έγκριση.
   Οι ειδοποιήσεις για το runtime και τις βιβλιοθήκες που περιλαμβάνονται βρίσκονται στο [THIRD-PARTY-NOTICES.txt](../agent/PhoneBox.Agent/THIRD-PARTY-NOTICES.txt).
 - **Εφαρμογή Android:** τα APK των εκδόσεων χρησιμοποιούν το δικό τους κλειδί υπογραφής του έργου, ανεξάρτητα από το SignPath.
-- **Ρόλοι ομάδας:** committer, reviewer και εγκρίνων υπογραφής: [ersinkoc](https://github.com/paulgeorge92).
+- **Ρόλοι ομάδας:** committer, reviewer και εγκρίνων υπογραφής: [paulgeorge92](https://github.com/paulgeorge92).
   Τα pull requests από άλλους συνεισφέροντες ελέγχονται πριν από τη συγχώνευση.
 - **Απόρρητο:** δείτε την [πολιτική απορρήτου](../PRIVACY.md).
 
@@ -228,11 +228,11 @@ python tools/demo-server.py
 
 ## Ιστορικό αστεριών
 
-<a href="https://www.star-history.com/#ersinkoc/phonebox&Date">
+<a href="https://www.star-history.com/#paulgeorge92/phonebox&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date">
-    <img alt="Ιστορικό αστεριών του ersinkoc/phonebox" src="https://api.star-history.com/svg?repos=ersinkoc/phonebox&type=Date">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date">
+    <img alt="Ιστορικό αστεριών του paulgeorge92/phonebox" src="https://api.star-history.com/svg?repos=paulgeorge92/phonebox&type=Date">
   </picture>
 </a>
 
