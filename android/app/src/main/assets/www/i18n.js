@@ -7129,6 +7129,12 @@
     },
     vi: {
       // Categories
+      'Spotify playlists': 'Danh sách phát Spotify',
+      'TCP connection status': 'Trạng thái kết nối TCP',
+      'Shows whether configured IP addresses and TCP ports accept connections, with optional icons and latency.': 'Cho biết các địa chỉ IP và cổng TCP đã cấu hình có chấp nhận kết nối hay không, kèm biểu tượng và độ trễ tùy chọn.',
+      'Connections (one per line: Name | icon | host | port)': 'Kết nối (mỗi dòng: Tên | biểu tượng | máy chủ | cổng)',
+      'Check every (seconds)': 'Kiểm tra mỗi (giây)',
+      'Connection timeout (milliseconds)': 'Thời gian chờ kết nối (mili giây)',
       'Time': 'Thời gian',
       'Personal': 'Cá nhân',
       'Weather & sky': 'Thời tiết & bầu trời',

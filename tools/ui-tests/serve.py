@@ -24,6 +24,27 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         '.json': 'application/json',
     }
 
+    # Hundreds of parallel asset requests make the inherited one-line access log
+    # a bottleneck (and can fill the parent process' stdout pipe). Playwright
+    # reports test failures itself, so successful static-file requests need not.
+    def log_message(self, format, *args):
+        pass
+
+
+class Server(http.server.ThreadingHTTPServer):
+    # Navigation cancels speculative asset requests. Windows reports those as
+    # WinError 10053 while the handler writes the response; that is a normal
+    # disconnected client, not a test-server failure.
+    def handle_error(self, request, client_address):
+        error = sys.exc_info()[1]
+        if isinstance(error, (BrokenPipeError, ConnectionAbortedError, ConnectionResetError)):
+            return
+        super().handle_error(request, client_address)
+
 
 directory, port = sys.argv[1], int(sys.argv[2])
-http.server.test(HandlerClass=functools.partial(Handler, directory=directory), port=port, bind='127.0.0.1')
+# Playwright opens many pages in parallel.  A request handler that serves one asset
+# at a time can starve a worker while the other workers fetch the panel modules,
+# producing unrelated navigation and script-load failures.
+server = Server(('127.0.0.1', port), functools.partial(Handler, directory=directory))
+server.serve_forever()

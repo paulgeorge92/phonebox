@@ -8,6 +8,9 @@ const python = process.platform === 'win32' ? 'python' : 'python3';
 
 module.exports = defineConfig({
   testDir: __dirname,
+  // The Windows Python static server is shared by every browser worker. Keep local
+  // Windows runs deterministic; CI continues to select its normal worker count.
+  workers: process.platform === 'win32' ? 1 : undefined,
   timeout: 30_000,
   retries: process.env.CI ? 1 : 0,
   reporter: process.env.CI ? [['list'], ['html', { open: 'never', outputFolder: path.join(root, 'ui-test-report') }]] : 'list',
