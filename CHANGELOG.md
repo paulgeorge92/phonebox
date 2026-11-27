@@ -69,6 +69,9 @@
   keys, so a shortcut bound to Ctrl+Alt+Numpad3 in Discord or a game is matched (#270,
   [adrianhermida](https://github.com/adrianhermida)).
 
+## 0.9.23 — 2026-11-27
+Fixed TCP COnnection UI issue - TCP Connection list broken and not scrolling when more entries added 
+
 ## 0.9.22 — 2026-11-20
 
 **Widgets**
